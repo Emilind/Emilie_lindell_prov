@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Emilie_lindell_prov
 {
-    class Superhjälte3
+    class Superhjälte3: Hjälte
     {
+        private int styrka = 0;
+        private int level = 0;
     }
 }

@@ -8,5 +8,16 @@ namespace Emilie_lindell_prov
 {
     class Hjälte
     {
+        public Random generator = new Random();
+        public string namn;//För namnen på hjätarna
+        public int hp = 100;//För hur mycket health dem har. 
+       
+        public void skada(int antal)//Visar hur mycket skada som en karaktär tar vi exempelvi en fight.
+        {
+            hp -= antal;
+        }
+        
+
+
     }
 }
