@@ -16,7 +16,11 @@ namespace Emilie_lindell_prov
         {
             hp -= antal;
         }
-        
+        public override string ToString()// För att kunna display informationen i main
+        {
+            return base.ToString() +
+                " HP:" + hp;//Displayar enbart hp för namnet står redan
+        }
 
 
     }

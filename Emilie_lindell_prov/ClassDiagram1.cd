@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Emilie_lindell_prov.Hjälte">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAEAAAAAAAAAAIAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Hjälte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emilie_lindell_prov.Program">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emilie_lindell_prov.Superhjälte1">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAFAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Superhjälte1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emilie_lindell_prov.Superhjälte2">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Superhjälte2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emilie_lindell_prov.Superhjälte3">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Superhjälte3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

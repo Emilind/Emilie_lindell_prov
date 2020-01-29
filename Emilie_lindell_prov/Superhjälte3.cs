@@ -13,7 +13,7 @@ namespace Emilie_lindell_prov
 
         public Superhjälte3()//Detta är en konstruktor och den kallas på automatiskt när instansen skapas i detta fall stryka och level
         {
-            styrka = generator.Next(15, 201);
+            styrka = generator.Next(15, 201);//Jag använder mig av en random generator för att göra varje karaktär unik. 
             level = generator.Next(1, 10);
         }
     }
