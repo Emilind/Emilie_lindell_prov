@@ -11,9 +11,16 @@ namespace Emilie_lindell_prov
         private int styrka = 0;
         private int level = 0;
 
-        public Superhjälte1(string x)
+        public Superhjälte1()//Detta är en konstruktor och den kallas på automatiskt när instansen skapas i detta fall stryka och level
         {
-            styrka = generator.Next(10, 150);
+            styrka = generator.Next(10, 150);//Jag använder mig av en random generator för att göra varje karaktär unik. 
+            level = generator.Next(1, 25);
+        }
+
+        public override string ToString()// Jag använder detta för att kunna display i program.cs vilka värden och så som varje karaktär har. 
+        {
+            return base.ToString() +
+                " Stryka:" + styrka + "  Level:" + level;
         }
 
 

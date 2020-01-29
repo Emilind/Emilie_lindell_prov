@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Hjälte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Superhjälte1.cs" />
+    <Compile Include="Superhjälte2.cs" />
+    <Compile Include="Superhjälte3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
